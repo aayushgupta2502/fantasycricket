@@ -1,9 +1,9 @@
 # Fantasy Cricket
 This project aims to develop an ESPN-esque Fantasy Cricket app for the IPL.
 
-# IPL Fantasy Cricket Platform Scoring System
+## IPL Fantasy Cricket Platform Scoring System
 
-## General Points:
+### General Points:
 
 | **Type of Points**                                          | **T20**  |
 |-------------------------------------------------------------|----------|
@@ -15,7 +15,7 @@ This project aims to develop an ESPN-esque Fantasy Cricket app for the IPL.
 | Run Out (Thrower / Catcher)                                 | 6 / 6    |
 | Dismissal for a Duck (only for batsmen, wicket-keepers, and all-rounders) | -2       |
 
-## Bonus Points:
+### Bonus Points:
 
 | **Type of Points**                                          | **T20**  |
 |-------------------------------------------------------------|----------|
@@ -27,7 +27,7 @@ This project aims to develop an ESPN-esque Fantasy Cricket app for the IPL.
 | 4 wickets                                                   | 8        |
 | 5 wickets                                                   | 16       |
 
-## Economy Rate Bonus:
+### Economy Rate Bonus:
 
 | **Type of Points**                                          | **T20**  |
 |-------------------------------------------------------------|----------|
@@ -39,7 +39,7 @@ This project aims to develop an ESPN-esque Fantasy Cricket app for the IPL.
 | Between 10.01 and 11 runs per over                          | -4       |
 | Above 11 runs per over                                      | -6       |
 
-## Low Strike Rate Penalty (except bowlers):
+### Low Strike Rate Penalty (except bowlers):
 
 | **Type of Points**                                          | **T20**  |
 |-------------------------------------------------------------|----------|
